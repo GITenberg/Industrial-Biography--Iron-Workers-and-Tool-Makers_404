@@ -1,0 +1,33 @@
+_repo: Industrial-Biography--Iron-Workers-and-Tool-Makers_404
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smiles, Samuel
+    birthdate: 1812
+    deathdate: 1904
+    gutenberg_agent_id: '224'
+    url: http://www.gutenberg.org/2009/agents/224
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Smiles
+description: ''
+gutenberg_issued: '1996-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '404'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Industrial arts -- Biography'
+- !lcc 'T'
+- !lcsh 'Iron industry and trade -- Great Britain -- Biography'
+- GITenberg
+tableOfContents: Iron and civilization -- Beginnings of the iron manufacturer in Britain
+  -- Iron-smelting by pit-coal; Dud Dudley -- Andrew Yarranton -- Coalbrookdale Iron-works;
+  The Darbys and Reynoldses -- Invention of cast-steel; Benjamin Huntsman -- The inventions
+  of Henry Cort -- The Scotch iron manufacture; Dr. Roebuck; David Mushet -- Invention
+  of the hot-blast; James Beaumont Neilson -- Mechanical inventions and inventors
+  -- Joseph Bramah -- Henry Maudslay -- Joseph Clement -- Fox of Derby; Murray of
+  Leeds; Roberts and Whitworth of Manchester -- James Nasmyth -- William Fairbairn.
+title: 'Industrial Biography: Iron Workers and Tool Makers'
+url: http://www.gutenberg.org/ebooks/404
